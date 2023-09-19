@@ -1,5 +1,4 @@
 # DuckGameKnockoff
 An old 2D local platformer shooter that i made 4 years ago (2019) (its a Duck Game knockoff: https://store.steampowered.com/app/312530/Duck_Game/)
-![image](https://github.com/Rizerek/DuckGameKnockoff/assets/91278157/0c8eb252-3374-4eab-8566-d417fcb88258)
 
 ![duck2d](https://github.com/Rizerek/DuckGameKnockoff/assets/91278157/da72ceb1-d9a6-4a14-973e-33340b08175e)
